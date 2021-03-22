@@ -1,0 +1,10 @@
+19:30:27.467: Position 1: TY89
+19:30:27.467: Position 2: ZX98
+19:30:27.468: Position 3: ML15
+19:30:27.468: Position 4: XT02
+19:30:27.468: Position 5: BZ36
+19:30:27.468: Position 6: PY29
+19:30:27.468: Position 7: MX87
+19:30:27.468: Position 8: GY20
+19:30:27.514: First command velocity received.
+19:30:34.751: Message received: Test_Team,dogdoggo,0,D0OG

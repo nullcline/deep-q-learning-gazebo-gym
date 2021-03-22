@@ -1,0 +1,1 @@
+from gym_gazebo.envs.competition_env.competition_training import GazeboCompEnv
